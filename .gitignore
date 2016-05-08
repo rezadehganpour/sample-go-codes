@@ -1,0 +1,4 @@
+bin/
+pkg/
+src/
+[._]*.s[a-w][a-z]
